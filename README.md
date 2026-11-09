@@ -1,2 +1,2 @@
-# cool-programs-
+# cool-programs
 Тут хранятся мои личные проекты
