@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+MIDlet-Name: Nokia Remote
+MIDlet-Version: 0.3.0
+MIDlet-Vendor: Dmytro
+MIDlet-1: Nokia Remote,,RemoteMidlet
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Permissions: javax.microedition.io.Connector.bluetooth.client
